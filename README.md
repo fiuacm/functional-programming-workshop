@@ -2,7 +2,7 @@
 
 What will be covered
 
-- Haskell
+- Haskell [Download Haskell](https://www.haskell.org/platform/)
 - Java 8
 - Frege (Basically Haskell on the JVM)
 
