@@ -6,7 +6,12 @@ What will be covered
 - Java 8
 - Frege (Basically Haskell on the JVM)
 
-Links:
+-Haskell links
+
+[GHC IO](https://ghc.io/)
+[Rextester](http://rextester.com/l/haskell_online_compiler)
+
+Java Links:
 
 1) [Online Java IDE](https://repl.it/languages/java)
 
